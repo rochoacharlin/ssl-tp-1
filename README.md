@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Nicolas R. Kalaydjian
-- integrante 2
+- Eitan Wajsberg
 - integrante 3
 - integrante 4
 - integrante 5
