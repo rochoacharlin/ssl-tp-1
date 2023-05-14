@@ -25,7 +25,7 @@ int convertirCadena(char str[])
     if (str[i] == '-')
     {
         signo = -1;
-        str++;
+        i++;
     }
 
     while (str[i] != '\0')
