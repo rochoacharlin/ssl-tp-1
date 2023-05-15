@@ -5,7 +5,7 @@
 - Nicolas R. Kalaydjian
 - Eitan Wajsberg
 - Nataly Sofia Rohling Insua
-- integrante 4
+- Nehuen Balian Amaros 
 - integrante 5
 - integrante 6
 - integrante 7
