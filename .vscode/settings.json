@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "string": "c",
+        "array": "c",
+        "string_view": "c",
+        "iomanip": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    }
+}
