@@ -6,6 +6,6 @@
 - Eitan Wajsberg
 - Nataly Sofia Rohling Insua
 - Nehuen Balian Amaros 
-- integrante 5
+- Rocío Ochoa Charlín
 - integrante 6
 - integrante 7
