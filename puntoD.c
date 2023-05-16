@@ -7,7 +7,7 @@ int main() {
     char cadenaPrueba[] = "Vamos a probar sacar todas las 'a'";
     printf("%s\n", cadenaPrueba);
     eliminarCaracter(cadenaPrueba, 'a');
-    printf(cadenaPrueba);
+    printf("%s", cadenaPrueba);
 
     return 0;
 }
