@@ -1,9 +1,11 @@
 #include <stdio.h>
 
+void concatenarCadenas(char *cadena1,const char *cadena2);
+
 int main()
 {
-    char cadena1[50] = "Este es ";
-    char cadena2[] = " el item e";
+    char cadena1[50] = "Hola";
+    char cadena2[] = " Mundo";
 
     concatenarCadenas(cadena1, cadena2);
 
