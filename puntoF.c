@@ -22,7 +22,6 @@ void insertarCharEnPos(char *str, char caracter, int pos);
 void insertarCharEnPos(char *cadena, char caracter, int pos)
 {
     int longAux = longitudDeCadena(cadena)+1;
-    printf(" %d \n", longAux);
     char aux[longAux];
 
     for (int i = 0; i <= longAux; i++)
