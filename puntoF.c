@@ -5,18 +5,6 @@
 int longitudDeCadena (char* cadena);
 void insertarCharEnPos(char *str, char caracter, int pos);
 
-int main()
-{
-    char cadena[] = "HolaMundo!";
-    char caracter =' ';
-    int pos = 4;
-    
-    printf("Cadena original: %s\n Caracter insertado \" \" , en la poscicion %d \n", cadena, pos);
-    insertarCharEnPos(cadena, caracter, pos);
-
-    return 0;
-}
-
 // Use la logica del ejercicio 1, estaria bueno meter todos los ejercicios en un "biblioteca"
 
  int longitudDeCadena (char* cadena) 
@@ -42,5 +30,5 @@ void insertarCharEnPos(char *cadena, char caracter, int pos)
         *(aux+i) = i < pos? *(cadena+i) : i == pos? caracter : *(cadena+i-1);
     }
         
-    printf("Cadena con un espacio insertado en la poscicion 4: %s\n", aux);
+    printf("Cadena con un espacio insertado en la poscicion 5: %s\n", aux);
 }

@@ -4,15 +4,7 @@
 
 void pasarAMayusculas(char *str);
 
-int main()
-{
-    char cadena[] = "Hola mundo!";
-    printf("Cadena original: %s\n", cadena);
-    pasarAMayusculas(cadena);
-    printf("Cadena en mayusculas: %s\n", cadena);
 
-    return 0;
-}
 
 void pasarAMayusculas(char *cadena)
 {

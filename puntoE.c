@@ -1,19 +1,10 @@
 #include <stdio.h>
 
-void concatenarCadenas(char *cadena1,const char *cadena2);
+void concatenarCadenas(char *cadena1, char *cadena2);
 
-int main()
-{
-    char cadena1[50] = "Hola";
-    char cadena2[] = " Mundo";
 
-    concatenarCadenas(cadena1, cadena2);
 
-    printf("Cadena concatenada: %s\n", cadena1);
-    return 0;
-}
-
-void concatenarCadenas(char *cadena1,const char *cadena2) {
+void concatenarCadenas(char *cadena1, char *cadena2) {
     // Obtener la longitud de la primera cadena
     int longitud1 = 0;
     while (cadena1[longitud1] != '\0') {
