@@ -7,5 +7,5 @@
 - Nataly Sofia Rohling Insua
 - Nehuen Balian Amaros 
 - Rocío Ochoa Charlín
-- integrante 6
-- integrante 7
+- Julián Alejandro Mosquera
+- Guido Marchi
