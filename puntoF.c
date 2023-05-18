@@ -10,5 +10,5 @@ void insertarCharEnPos(char *cadena, char caracter, int pos)
     {
         *(aux+i) = i < pos? *(cadena+i) : i == pos? caracter : *(cadena+i-1);
     }
-    printf("Cadena con un el caracter '%c' insertado en la posicion %d: %s\n\n", caracter, pos, aux);
+    printf("Cadena con el caracter '%c' insertado en la posicion %d: %s\n\n", caracter, pos, aux);
 }
