@@ -1,10 +1,5 @@
-#include <stdio.h>
-
 // c. Convertir una cadena de caracteres a la misma cadena con todos sus caracteres en mayúscula.
-
-void pasarAMayusculas(char *str);
-
-
+#include <stdio.h>
 
 void pasarAMayusculas(char *cadena)
 {
