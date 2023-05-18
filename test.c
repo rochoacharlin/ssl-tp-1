@@ -53,7 +53,6 @@ int main(){
     printf("Punto F \n");
     printf("Cadena original: %s \n", cadenaF);
     insertarCharEnPos(cadenaF, caracterNuevo, posicionCaracter);
-    //printf("Cadena con el caracter '%c' insertado en la posicion %d: %s", caracterNuevo, posicionCaracter, cadenaF);
 
     return 0;
 }
